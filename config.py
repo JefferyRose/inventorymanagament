@@ -7,7 +7,7 @@ SPREADSHEET_ID = '1eAZt-gjE_BpciYDZENUwZ5MUI9L7vSjZ16a7yL5vuo8'
 RANGE_NAME = 'Sheet1!A:D'
 
 # Path to your client_secret.json file
-CLIENT_SECRET_FILE = r'C:\Users\armor\Downloads\CSC6304WebPage\inventory\client_secret.json'
+CLIENT_SECRET_FILE = r'inventorymanagament\client_secret.json'
 
 # OAuth Scopes
 SCOPES_READONLY = ['https://www.googleapis.com/auth/spreadsheets.readonly']
